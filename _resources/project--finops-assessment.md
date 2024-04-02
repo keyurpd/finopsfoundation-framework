@@ -182,7 +182,7 @@ When choosing the scope of an assessment we will define two key parameters:
 
 Establish your target group by focusing on groups that stand out in some way. Again, better to focus on one or a few groups than to try to obtain average scores across many groups who are at vastly different levels of maturity in their practice. 
 
-When you are considering a target group and scope, look at some of these attributes to pick a meaningful and useful groupConsider the following attributes as examples of defining scope parameters:
+When you are considering a target group and scope, look at some of these attributes to pick a meaningful and useful group. Consider the following attributes as examples of defining scope parameters:
 
 - Cloud Cost allocation grouping
 - Engineering team/teams
